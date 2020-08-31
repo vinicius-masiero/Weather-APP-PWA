@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/weather_app_pwa/static/css/main.37bfb52e.chunk.css",
-    "main.js": "/weather_app_pwa/static/js/main.efd73483.chunk.js",
-    "main.js.map": "/weather_app_pwa/static/js/main.efd73483.chunk.js.map",
-    "runtime-main.js": "/weather_app_pwa/static/js/runtime-main.ef71df1e.js",
-    "runtime-main.js.map": "/weather_app_pwa/static/js/runtime-main.ef71df1e.js.map",
-    "static/js/2.d65f5adf.chunk.js": "/weather_app_pwa/static/js/2.d65f5adf.chunk.js",
-    "static/js/2.d65f5adf.chunk.js.map": "/weather_app_pwa/static/js/2.d65f5adf.chunk.js.map",
-    "index.html": "/weather_app_pwa/index.html",
-    "precache-manifest.c3122b5cdfc6e86350c2dd8dd0fe9f93.js": "/weather_app_pwa/precache-manifest.c3122b5cdfc6e86350c2dd8dd0fe9f93.js",
-    "service-worker.js": "/weather_app_pwa/service-worker.js",
-    "static/css/main.37bfb52e.chunk.css.map": "/weather_app_pwa/static/css/main.37bfb52e.chunk.css.map",
-    "static/js/2.d65f5adf.chunk.js.LICENSE.txt": "/weather_app_pwa/static/js/2.d65f5adf.chunk.js.LICENSE.txt"
+    "main.css": "/weather-app-pwa/static/css/main.37bfb52e.chunk.css",
+    "main.js": "/weather-app-pwa/static/js/main.4fa982d4.chunk.js",
+    "main.js.map": "/weather-app-pwa/static/js/main.4fa982d4.chunk.js.map",
+    "runtime-main.js": "/weather-app-pwa/static/js/runtime-main.36240589.js",
+    "runtime-main.js.map": "/weather-app-pwa/static/js/runtime-main.36240589.js.map",
+    "static/js/2.d65f5adf.chunk.js": "/weather-app-pwa/static/js/2.d65f5adf.chunk.js",
+    "static/js/2.d65f5adf.chunk.js.map": "/weather-app-pwa/static/js/2.d65f5adf.chunk.js.map",
+    "index.html": "/weather-app-pwa/index.html",
+    "precache-manifest.688e84888cf53adb0a579c916cc2f588.js": "/weather-app-pwa/precache-manifest.688e84888cf53adb0a579c916cc2f588.js",
+    "service-worker.js": "/weather-app-pwa/service-worker.js",
+    "static/css/main.37bfb52e.chunk.css.map": "/weather-app-pwa/static/css/main.37bfb52e.chunk.css.map",
+    "static/js/2.d65f5adf.chunk.js.LICENSE.txt": "/weather-app-pwa/static/js/2.d65f5adf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef71df1e.js",
+    "static/js/runtime-main.36240589.js",
     "static/js/2.d65f5adf.chunk.js",
     "static/css/main.37bfb52e.chunk.css",
-    "static/js/main.efd73483.chunk.js"
+    "static/js/main.4fa982d4.chunk.js"
   ]
 }
